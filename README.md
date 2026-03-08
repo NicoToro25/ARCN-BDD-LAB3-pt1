@@ -4,10 +4,8 @@
 
 ## Nicolás Toro Criollo
 
-En este repositorio se busca solución el laboratorio propuesto en el link [TDD](https://eci-arcn.github.io/Labs/tdd/)
-que tiene como objetivo que los estudiantes refactoricen código que viola los principios SOLID y apliquen las mejores prácticas.
-
-Laboratorio de automatización aplicando **BDD (Behavior-Driven Development)** en Java con Cucumber, Selenium y Maven.
+En este repositorio se busca solución el laboratorio propuesto en el link [BDD](https://eci-arcn.github.io/Labs/bdd-part1/)
+que tiene como objetivo automatizar aplicando **BDD (Behavior-Driven Development)** en Java con Cucumber, Selenium y Maven.
 
 ---
 
@@ -19,7 +17,7 @@ cd bbd-java-lab
 mvn test
 ```
 
-Se generará un archivo en la carpeta "bdd-java-lab/target/HtmlReports" que se podrá descargar y el resultado de Cucumber
+Se generará un archivo en la carpeta "bdd-java-lab/target/HtmlReports" que se podrá descargar y ver el resultado de Cucumber.
 
 ---
 
